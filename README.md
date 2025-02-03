@@ -7,4 +7,4 @@
 💭 Currently learning about coding Algebra<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/chrstophr/github-readme-stats)
+[![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=chrstophr&count_private=true&show_icons=false&theme=radical&hide_rank=false)](https://github.com/chrstophr/github-readme-stats)
