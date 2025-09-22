@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Data Science Enthusiast sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Majored in Statistics<br/>
-💭 Currently learning about coding Algebra<br/>
+💭 Currently learning about building Gen AI Applicaions<br/>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@chrsmwaura) 
